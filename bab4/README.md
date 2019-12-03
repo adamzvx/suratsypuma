@@ -3,4 +3,5 @@
 ##MVC
 
 (sumber)[http://jurnal.uinsu.ac.id/index.php/jistech/article/download/3908/1928]
+s
 

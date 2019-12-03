@@ -1,7 +1,7 @@
-#BAB 4
+# BAB 4
 
-##MVC
+## MVC
 
-(sumber)[http://jurnal.uinsu.ac.id/index.php/jistech/article/download/3908/1928]
-s
+(sumber:) [http://jurnal.uinsu.ac.id/index.php/jistech/article/download/3908/1928]
+
 

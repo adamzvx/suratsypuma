@@ -23,8 +23,8 @@ Rekayasa web adalah suatu cabang ilmu baru yang didalamnya mempelajari pengemban
 mengembangkan Sistem Informasi Pendataan Surat saat kerja praktek mahasiswa pada prodi Ilmu Komputer UINSU dengan menggunakan framework CodeIgniter. Pemilihan framework CodeIgniter ini dikarenakan codeigniter dikembangkan oleh komunitas open source dan menurut penulis sangat mudah untuk dipelajari. Codeigniter juga sudah menggunakan konsep MVC (Models-View-Controller) yang memisahkan antara data dan presentasi sehingga memungkinkan pengembangan sebuah web dengan cepat dan memudahkan proses pengelolaan web tesebut. CodeIgniter merupakan sebuah framework yang
 dibuat dengan menggunakan bahasa PHP, yang dapat digunakan untuk pengembangan web secara cepat. Adapun framework sendiri dapat diartikan sebagai suatu struktur pustaka-pustaka, kelas-kelas dan infrastruktur run-time yang dapat digunakan oleh programmer untuk mengembangkan aplikasi web secara cepat. Tujuan penggunaan framework adalah untuk mempermudah pengembang web mengembangkan aplikasi web yang robust secara cepat tanpa kehilangan fleksibilitas. 	
 Berikut adalah fitur-fitur yang dimiliki oleh CodeIgniter:
-* Model-View-Controller, merupakan fitur yang digunakan untuk mengembagkan aplikasi web dengan memisahkan antara logika bisnis dan presentasi, 
-* Support terhadap PHP 5 dan PHP 7,
+* Model-View-Controller, merupakan fitur yang digunakan untuk mengembagkan aplikasi web dengan memisahkan antara logika bisnis dan presentasi.
+* Support terhadap PHP 5 dan PHP 7.
 * Template Engine Class, merupakan fitur CodeIgniter untuk memisahkan data dan presentasi.
 * Scaffolding, merupakan fitur yang ada di framework CodeIgniter yang memungkinkan untuk membangun aplikasi cepat dan mudah untuk menambah, mengubah atau menghapus informasi dari basisdata. 
 [sumber](https://media.neliti.com/media/publications/92627-ID-pemanfaatan-framework-codeigniter-dalam.pdf)
@@ -40,3 +40,11 @@ tersebut diantaranya adalah :
 6. Penambahan Library Cache, untuk meningkatkan kwalitas aplikasi makan library cache baik menggunakan apc, mencached maupun file base.
 7. Penambahan fitur package , bertujuan untuk mempermudah distribusi dalam sebuah folder.
 [sumber: Perkumpulan AirPutih, _Panduan Penggunaan Aplikasi FOSS CodeIgniter_, Jakarta :2014 ](http://www.airputih.or.id/file/file_ebook/bL29_Panduan_CodeIgniter.pdf)
+
+## Keterangan Kode
+
+Controller Bertugas melakukan set nilai default atau bisa dikatakan
+menjalankan proses default ketika dijalankan dengan berisikan 
+
+## Keterangan Aplikasi 
+Aplikasi berisi login , home, dan menu lainnya.

@@ -48,5 +48,5 @@ menjalankan proses default ketika dijalankan dengan berisikan
 
 ## Keterangan Aplikasi 
 Aplikasi berisi login , home, dan menu lainnya.
-![login](../img/1.png)
+![login](img/1.png)
 dalam aplikasi login, user bisa memasukkan username dan password yang telah didaftarkan oleh admin. Password tidak berupa plain teks normal namun sudah di enkripsi untuk menambah keamanan data

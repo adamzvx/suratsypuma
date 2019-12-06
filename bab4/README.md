@@ -48,5 +48,30 @@ menjalankan proses default ketika dijalankan dengan berisikan
 
 ## Keterangan Aplikasi 
 Aplikasi berisi login , home, dan menu lainnya.
+
+### index
+![index](img/0.png)
+saat pertama menuju web aplikasi, akan menunjukkan halaman pencari. Disini agar mempermudah user untuk langsung mencari surat masuk atau surat keluar saat mendadak tanpa harus login terbelih dahulu dan membuat _user experience_ semakin baik.
+
+### Login
 ![login](img/1.png)
-dalam aplikasi login, user bisa memasukkan username dan password yang telah didaftarkan oleh admin. Password tidak berupa plain teks normal namun sudah di enkripsi untuk menambah keamanan data
+dalam aplikasi login, user bisa memasukkan username dan password yang telah didaftarkan oleh admin. Password tidak berupa teks "telanjang" normal namun sudah di enkripsi untuk menambah keamanan data.
+
+### Home
+![home](img/2.png)
+Setelah berhasil masuk, maka user akan dibawa dan berada di halaman _home_. Halaman ini menjadi penunjuk kepada user dengan beberapa menu yang tersedia. Ada menu surat keluar, surat masuk serta laporan. Menu surat keluar berfungsi untuk mengelola semua aktifitas surat keluar dari perusahaan dan menu surat masuk untuk mengelola semua aktifitas surat masuk menuju perusahaan.
+
+### Surat Keluar
+![](img/3.png)
+Di dalam halaman surat keluar, kita bisa melihat surat-surat apa saja yang keluar melalui perusahaan. Semua surat dalam surat keluar juga memiliki _property_ seperti kode surat, kepada siapa, perihal, dan lain-lain. Kita juga mencari surat berdasarkan nomor surat, kepada, perihal, tanggal dan pengolah.
+
+![add keluar](img/3a.png)
+Selain itu, di halaman surat keluar user juga bisa menambah surat sesuai dengan format yang telah ditentukan.
+
+
+### Surat Masuk
+![](img/5)
+Di dalam halaman surat masuk, kita bisa melihat surat-surat apa saja yang masuk ke dalam perusahaan. Surat-surat masuk  memiliki _property_ seperti kode surat, pengirim, perihal, dan lain-lain. Kita juga mencari surat berdasarkan nomor surat, kepada, perihal, tanggal dan pengolah.
+
+![](img/5a)
+Selain itu, di halaman surat keluar user juga bisa menambah surat sesuai dengan format yang telah ditentukan seperti ketetapan disposisi dan pengolah.

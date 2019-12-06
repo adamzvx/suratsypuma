@@ -70,8 +70,12 @@ Selain itu, di halaman surat keluar user juga bisa menambah surat sesuai dengan 
 
 
 ### Surat Masuk
-![](img/5)
+![](img/5.png)
 Di dalam halaman surat masuk, kita bisa melihat surat-surat apa saja yang masuk ke dalam perusahaan. Surat-surat masuk  memiliki _property_ seperti kode surat, pengirim, perihal, dan lain-lain. Kita juga mencari surat berdasarkan nomor surat, kepada, perihal, tanggal dan pengolah.
 
-![](img/5a)
+![](img/5a.png)
 Selain itu, di halaman surat keluar user juga bisa menambah surat sesuai dengan format yang telah ditentukan seperti ketetapan disposisi dan pengolah.
+
+### Laporan
+![](img/4.png)
+Laporan surat berisi mengenai statistika surat seperti jumlah yang masuk atau keluar pada waktu tertentu
